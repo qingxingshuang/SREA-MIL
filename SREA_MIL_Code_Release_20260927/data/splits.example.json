@@ -1,0 +1,11 @@
+{
+  "development": ["example_slide_001"],
+  "held_out": ["example_slide_002"],
+  "inner_folds": [
+    {"train": [], "val": ["example_slide_001"]},
+    {"train": [], "val": ["example_slide_001"]},
+    {"train": [], "val": ["example_slide_001"]},
+    {"train": [], "val": ["example_slide_001"]},
+    {"train": [], "val": ["example_slide_001"]}
+  ]
+}

@@ -1,0 +1,3 @@
+slide_id,label,abnormal_feature_path,normal_feature_path
+example_slide_001,0,features/example_slide_001_abnormal.npy,features/example_slide_001_normal.npy
+example_slide_002,1,features/example_slide_002_abnormal.npy,features/example_slide_002_normal.npy
